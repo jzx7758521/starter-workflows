@@ -39,4 +39,4 @@
       环境：
         IBM_APP_NAME：$ {{ secrets.IBM_APP_NAME }}
       运行：|
-        ./IBM_Cloud_CLI/ibmcloud cf重新启动“ $ IBM_APP_NAME”
+        ./IBM_Cloud_CLI/ibmcloud cf重新启动“ $ IBM_APP_NAME”  
